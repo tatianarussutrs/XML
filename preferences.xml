@@ -1,4 +1,6 @@
-1) 500 days of summer
-2) Sherlock
-3) pizza
-4) Portugal
+<?xml version="1.0" encoding="UTF-8" ?>
+<fav_movie>500 days of summer</fav_movie>
+<fav_tv_show>friends</fav_tv_show>
+<fav_meal>pizza</fav_meal>
+<fav_season>winter</fav_season>
+<place_to_visit>Ireland</place_to_visit>
